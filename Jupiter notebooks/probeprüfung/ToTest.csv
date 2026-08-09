@@ -1,0 +1,11 @@
+,Pclass,Name,FirstName,Sex,Age,SibSp,Parch,Ticket,Fare,Cabin,Embarked
+882,3,Markun, Mr. Johann,0,33,0,0,349257,7.8958,,S
+883,3,Dahlberg, Miss. Gerda Ulrika,1,22,0,0,7552,10.5167,,S
+884,2,Banfield, Mr. Frederick James,0,28,0,0,C.A./SOTON 34068,10.5,,S
+885,3,Sutehall, Mr. Henry Jr,0,25,0,0,SOTON/OQ 392076,7.05,,S
+886,3,Rice, Mrs. William (Margaret Norton),1,39,0,5,382652,29.125,,Q
+887,2,Montvila, Rev. Juozas,0,27,0,0,211536,13,,S
+888,1,Graham, Miss. Margaret Edith,1,19,0,0,112053,30,B42,S
+889,3,Johnston, Miss. Catherine Helen Carrie,1,30,1,2,W./C. 6607,23.45,,S
+890,1,Behr, Mr. Karl Howell,0,26,0,0,111369,30,C148,C
+891,3,Dooley, Mr. Patrick,0,32,0,0,370376,7.75,,Q
